@@ -1,0 +1,12 @@
+C:\Users\johan\source\repos\FrontEndProyectoFinal\FrontEndProyectoFinal\bin\Debug\FrontEndProyectoFinal.exe.config
+C:\Users\johan\source\repos\FrontEndProyectoFinal\FrontEndProyectoFinal\bin\Debug\FrontEndProyectoFinal.exe
+C:\Users\johan\source\repos\FrontEndProyectoFinal\FrontEndProyectoFinal\bin\Debug\FrontEndProyectoFinal.pdb
+C:\Users\johan\source\repos\FrontEndProyectoFinal\FrontEndProyectoFinal\obj\Debug\FrontEndProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\FrontEndProyectoFinal\FrontEndProyectoFinal\obj\Debug\FrontEndProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\johan\source\repos\FrontEndProyectoFinal\FrontEndProyectoFinal\obj\Debug\FrontEndProyectoFinal.Properties.Resources.resources
+C:\Users\johan\source\repos\FrontEndProyectoFinal\FrontEndProyectoFinal\obj\Debug\FrontEndProyectoFinal.csproj.GenerateResource.cache
+C:\Users\johan\source\repos\FrontEndProyectoFinal\FrontEndProyectoFinal\obj\Debug\FrontEndProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\FrontEndProyectoFinal\FrontEndProyectoFinal\obj\Debug\FrontEndProyectoFinal.exe
+C:\Users\johan\source\repos\FrontEndProyectoFinal\FrontEndProyectoFinal\obj\Debug\FrontEndProyectoFinal.pdb
+C:\Users\johan\source\repos\FrontEndProyectoFinal\FrontEndProyectoFinal\obj\Debug\FrontEndProyectoFinal.LogIn.resources
+C:\Users\johan\source\repos\FrontEndProyectoFinal\FrontEndProyectoFinal\obj\Debug\FrontEndProyectoFinal.AgregarUsuario.resources
